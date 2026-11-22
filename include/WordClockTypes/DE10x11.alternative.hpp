@@ -83,7 +83,7 @@ public:
             break;
 
         case FrontWord::uhr:
-            setFrontMatrixWord(9, 2, 4);
+            setFrontMatrixWord(9, 1, 3);
             break;
 
         case FrontWord::happy_birthday:
